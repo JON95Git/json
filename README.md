@@ -1,5 +1,5 @@
 # json
-A simple example of how to marshall and unmarshall JSON files in Golang
+A simple example of how to marshal and unmarshal JSON files in Golang
 
 ### Dependencies
 
